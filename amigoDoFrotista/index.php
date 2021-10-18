@@ -34,7 +34,7 @@
                         </div>
                         <span><a href="#"><center>Nova conta</center></a></span><br>
                         <!-- <button type="submit" class="btn btn-primary">Criar Conta</button> -->
-                        <button type="submit" class="btn btn-primary" style="width: 100%;"> Entrar</button>
+                        <button type="submit" class="btn btn-primary" style="width: 100%;">Entrar</button>
                     </form>
                 </div>
                 <div class="col-sm">
